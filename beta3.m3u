@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://www.rcn.com.py/file/2020/08/logo_web@footer.png" group-title="NACIONALES", RCN TV
+http://meQB3IRpTGorucNDChld0n.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26647&t=live&f=m3u8
